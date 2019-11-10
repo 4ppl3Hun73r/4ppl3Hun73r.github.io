@@ -7,9 +7,11 @@
 11월달 글 정리
 ```
 <dl>
-<dt>개발 블로그를 다시 시작하면서</dt>
+<dt>개발 블로그를 다시 시작하면서 (2019.11.09.)</dt>
 <dd><a href="https://4ppl3hun73r.github.io/post/2019/11/createBlog" target="_blank"> https://4ppl3hun73r.github.io/post/2019/11/createBlog </a></dd>
-<dt>Github Page 를 만들어 보자</dt>
+<dt>Github Page 를 만들어 보자 (2019.11.09.)</dt>
 <dd><a href="https://4ppl3hun73r.github.io/post/2019/11/createGithubPage" target="_blank"> https://4ppl3hun73r.github.io/post/2019/11/createGithubPage </a></dd>
-<dt>Google Analytics 붙이기</dt>
+<dt>Google Analytics 붙이기 (2019.11.09.)</dt>
 <dd><a href="https://4ppl3hun73r.github.io/post/2019/11/addGoogleAnalytics" target="_blank"> https://4ppl3hun73r.github.io/post/2019/11/addGoogleAnalytics </a></dd>
+<dt>puppeteer 동작을 영상으로 녹화 시키기 (2019.11.10.)</dt>
+<dd><a href="https://4ppl3hun73r.github.io/post/2019/11/puppeteerRecoding" target="_blank"> https://4ppl3hun73r.github.io/post/2019/11/puppeteerRecoding </a></dd>
