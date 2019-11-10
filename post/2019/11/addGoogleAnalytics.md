@@ -24,3 +24,30 @@ _config.yml
 ```yml
 google_analytics: UA-1******
 ```
+
+## Google Search Console 연결
+
+### Search Console 연결을 하는 이유
+
+1. 구글에서 내 사이트가 잘 노출되는지 확인 가능
+2. 어떤 검색어로 유입되는지 확인 가능
+2. 검색이 잘 되는 가이드 라인을 지속적으로 피드백 해줌
+3. 검색 제외 설정 가능
+
+### Search Console 가입하기
+
+1. [Google Search Console](https://search.google.com/search-console/about)에 들어가서 가입을 한다.
+2. 내 사이트 등록 작업을 진행 해 준다.
+3. URL 인증 방식으로 진행 한다.
+   ![sc2](https://4ppl3hun73r.github.io/post/2019/11/sc2.png)
+4. GA 와 연동을 해놨기 때문에 자동으로 인증이 된다.
+   - GA 연동이 안되어 있다면 Search Console에서 제공하는 head 마크업을 _layouts/default.html 에 삽입해 주면 된다.
+
+### GA - Search Console 연동 하기
+
+1. GA 관리 페이지에서 제품 연결하기를 선택한다.
+   ![sc1](https://4ppl3hun73r.github.io/post/2019/11/sc1.png)
+2. Search Console 연동을 선택 한다.
+3. 추가 링크를 눌러서 위에서 가입한 Search Console을 선택한다.
+   ![sc4](https://4ppl3hun73r.github.io/post/2019/11/sc4.png)
+

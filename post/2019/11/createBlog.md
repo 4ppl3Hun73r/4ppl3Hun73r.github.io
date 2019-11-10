@@ -1,4 +1,4 @@
-# Github Page 로 개발 블로그 만들어 보자
+# 개발 블로그를 다시 시작하면서
 
 [taetaetae 님의 개발자가 글을 써야 하는 이유](https://taetaetae.github.io/2019/10/27/a-reason-for-writing/) 를 보고 이번에는 제대로 블로그를 해봐야 겠다는 마음으로 블로그를 만드는 것 부터 다시 시작해 봤다.
 
