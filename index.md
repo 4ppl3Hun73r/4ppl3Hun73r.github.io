@@ -8,8 +8,8 @@
 ```
 <dl>
 <dt>개발 블로그를 다시 시작하면서</dt>
-<dd>[https://4ppl3hun73r.github.io/post/2019/11/createBlog](https://4ppl3hun73r.github.io/post/2019/11/createBlog)</dd>
+<dd><a href="https://4ppl3hun73r.github.io/post/2019/11/createBlog" target="_blank"> https://4ppl3hun73r.github.io/post/2019/11/createBlog </a></dd>
 <dt>Github Page 를 만들어 보자</dt>
-<dd>[https://4ppl3hun73r.github.io/post/2019/11/createGithubPage](https://4ppl3hun73r.github.io/post/2019/11/createGithubPage)</dd>
+<dd><a href="https://4ppl3hun73r.github.io/post/2019/11/createGithubPage" target="_blank"> https://4ppl3hun73r.github.io/post/2019/11/createGithubPage </a></dd>
 <dt>Google Analytics 붙이기</dt>
-<dd>https://4ppl3hun73r.github.io/post/2019/11/addGoogleAnalytics](https://4ppl3hun73r.github.io/post/2019/11/addGoogleAnalytics)</dd>
+<dd><a href="https://4ppl3hun73r.github.io/post/2019/11/addGoogleAnalytics" target="_blank"> https://4ppl3hun73r.github.io/post/2019/11/addGoogleAnalytics </a></dd>
