@@ -7,3 +7,4 @@ google_analytics: UA-151941743-1
 
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
