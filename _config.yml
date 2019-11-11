@@ -4,3 +4,6 @@ title: Programmer
 description: Jiho's Blog
 
 google_analytics: UA-151941743-1
+
+plugins:
+  - jekyll-sitemap
