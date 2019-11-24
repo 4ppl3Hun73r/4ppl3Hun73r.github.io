@@ -1,7 +1,7 @@
 # V Live Playlist Chrome Extension 요구사항 정의
 
 ## conetent 영역 정의
-![Content 영역](https://4ppl3hun73r.github.io/post/2019/11/vliveExtensionContent.png)
+![Content 영역](https://4ppl3hun73r.github.io/post/2019/11/vliveExtensionContent.PNG)
 
 ### 공유 영역 옆에 버튼 추가
 * Playlist 추가, PIP 재생 기능을 추가해주는 영역 추가
@@ -18,7 +18,7 @@
 * 재생중인 영상이 PIP 모드로 재생됨
 
 ## popup 영역 정의
-![popup 영역](https://4ppl3hun73r.github.io/post/2019/11/vliveExtensionPoup.png)
+![popup 영역](https://4ppl3hun73r.github.io/post/2019/11/vliveExtensionPoup.PNG)
 
 ### 아이콘 상태
 * 플레이리스트 관련 tab이 없을때 : 빨간색 버튼 아이콘
