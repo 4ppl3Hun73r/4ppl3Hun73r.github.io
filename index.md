@@ -8,7 +8,11 @@
 <dl>
 <dt>Nginx 302 Redirect 설정시 Upstream Name으로 이동할때 처리 (2019.12.09.)</dt>
 <dd><a href="https://4ppl3hun73r.github.io/post/2019/12/nginx302RedirectProxySetting" target="_blank"> https://4ppl3hun73r.github.io/post/2019/12/nginx302RedirectProxySetting </a></dd>
+<dt>Spring One re:Cap Seoul 2019 참석 (2019.12.17.)</dt>
+<dd><a href="https://4ppl3hun73r.github.io/post/2019/12/springOneReCap" target="_blank"> https://4ppl3hun73r.github.io/post/2019/12/springOneReCap </a></dd>
 </dl>
+
+
 
 ## 2019.11.
 
