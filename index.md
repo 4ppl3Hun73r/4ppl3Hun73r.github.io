@@ -6,6 +6,8 @@
 12월달 글 정리
 ```
 <dl>
+<dt>애자일 관련 도서 카이젠 저니를 읽고 (2019.12.26.)</dt>
+<dd><a href="https://4ppl3hun73r.github.io/post/2019/12/kaizenJourneyBook" target="_blank"> https://4ppl3hun73r.github.io/post/2019/12/kaizenJourneyBook </a></dd>
 <dt>내가 자주 사용하는 Docker Command 정리 (2019.12.26.)</dt>
 <dd><a href="https://4ppl3hun73r.github.io/post/2019/12/dockerCommand" target="_blank"> https://4ppl3hun73r.github.io/post/2019/12/dockerCommand </a></dd>
 <dt>Spring One re:Cap Seoul 2019 참석 (2019.12.17.)</dt>
