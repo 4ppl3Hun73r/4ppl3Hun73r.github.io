@@ -1,6 +1,6 @@
 # 애자일 관련 도서 카이젠 저니를 읽고
 
-![kaizenJourney](https://4ppl3hun73r.github.io/post/2019/12/kaizenJourney.jpen)
+![kaizenJourney](https://4ppl3hun73r.github.io/post/2019/12/kaizenJourney.jpeg)
 
 일하는 방식에 대해서 고민을 하던중 애자일에 대한 책 한권을 읽어봐야 겠다는 생각이 들어서 관련 도서를 검색하다가 이 책을 발견했다.
 
