@@ -1,5 +1,14 @@
 # 개발 하면서 문서 정리 하려고 만든 블로그
 
+## 2020.02.
+```
+2월달 글 정리
+```
+<dl>
+<dt>Slf4j Mapped Diagnostic Context (MDC) 를 이용한 사용자 요청 추적 (2020.02.22.)</dt>
+<dd><a href="https://4ppl3hun73r.github.io/post/2020/02/slf4jMDCLogging" target="_blank"> https://4ppl3hun73r.github.io/post/2020/02/slf4jMDCLogging </a></dd>
+</dl>
+
 ## 2020.01.
 ```
 1월달 글 정리
@@ -24,9 +33,6 @@
 <dt>Nginx 302 Redirect 설정시 Upstream Name으로 이동할때 처리 (2019.12.09.)</dt>
 <dd><a href="https://4ppl3hun73r.github.io/post/2019/12/nginx302RedirectProxySetting" target="_blank"> https://4ppl3hun73r.github.io/post/2019/12/nginx302RedirectProxySetting </a></dd>
 </dl>
-
-
-
 
 
 ## 2019.11.
