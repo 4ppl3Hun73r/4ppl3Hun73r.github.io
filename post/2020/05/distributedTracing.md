@@ -29,6 +29,6 @@ CNCF(Cloud Native Computing Foundation) 에서 지원하는 분산환경 추적�
 가장 많이 사용되는 솔루션으로는 twitter의 zipkin과 uber의 jaeger 가 있다. 둘다 강력한데 kubernetes 환경에서의 잠재력에 있얻서 jaeger가 더 많은 인기를 얻고 있다. 
 특히나 jaeger 는 zipkin API 와 호환이 되므로 jaeger로 먼저 구축하고 사용하다가 zipkin으로 넘어가는 방법도 하나의 방법이 될 수 있다.
 
-# 투토리얼
+# 튜토리얼
 java : https://github.com/yurishkuro/opentracing-tutorial/tree/master/java
 others : https://opentracing.io/docs/getting-started/tutorials/
