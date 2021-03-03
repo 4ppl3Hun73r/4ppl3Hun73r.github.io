@@ -1,0 +1,14 @@
+[[main]]
+  name = "About Me"
+  url = "/authors/jiho/#about"
+  weight = 1
+
+[[main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 3
